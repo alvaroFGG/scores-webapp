@@ -1,0 +1,93 @@
+[
+	{
+		"ID": "1",
+		"name": "Alvaro",
+        "lastname": "Fuentenebro",
+		"age": "20",
+		"score": 3
+	},
+    {
+		"ID": "2",
+		"name": "Javier",
+        "lastname": "Martinez",
+		"age": "27",
+		"score": 1
+	},
+    {
+		"ID": "3",
+		"name": "Ariel",
+        "lastname": "Rivas",
+		"age": "22",
+		"score": 2
+	},
+	{
+		"ID": "4",
+		"name": "Daniel",
+        "lastname": "Martinez",
+		"age": "22",
+		"score": 0
+	},
+    {
+		"ID": "5",
+		"name": "Jay",
+        "lastname": "Esclapes",
+		"age": "35",
+		"score": 5
+	},
+    {
+		"ID": "6",
+		"name": "Enzo",
+        "lastname": "Lardone",
+		"age": "24",
+		"score": 4
+	},
+    {
+		"ID": "7",
+		"name": "Paola",
+        "lastname": "Vargas",
+		"age": "20",
+		"score": 3
+	},
+	{
+		"ID": "8",
+		"name": "Ana",
+        "lastname": "Doig",
+		"age": "36",
+		"score": 2
+	},
+	{
+		"ID": "9",
+		"name": "Anny",
+        "lastname": "Pereira",
+		"age": "35",
+		"score": 5
+	},
+	{
+		"ID": "10",
+		"name": "Ana",
+        "lastname": "Reyes",
+		"age": "20",
+		"score": 3
+	},
+	{
+		"ID": "11",
+		"name": "Denesis",
+        "lastname": " ",
+		"age": "25",
+		"score": 2
+	},
+	{
+		"ID": "12",
+		"name": "Esther",
+        "lastname": "",
+		"age": "20",
+		"score": 6
+	},
+	{
+		"ID": "13",
+		"name": "Juan",
+        "lastname": "Simón",
+		"age": "30",
+		"score": 2
+	}
+]

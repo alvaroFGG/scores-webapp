@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+
+header{
+    width: 100vw;
+    height: 20vh;
+}
+
+
+
+.ranks__header{
+    width: 60vw;
+    max-height: 50vh;
+    border-radius: 25px;
+}
+
+.ranks__scores{
+    height: 400px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.ranks__scores-each{
+    width: 60vw;
+    max-height: 50vh;
+    border-radius: 15px;
+    margin-top: 10px;
+    
+}
