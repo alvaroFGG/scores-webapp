@@ -1,5 +1,5 @@
 const divScores = document.querySelector("div[class=ranks__scores]");
-const arrColors = ["#fabfb7","#fdf9c4","#ffda9e","#c5c6c8","#b2e2f2"];
+// const arrColors = ["#fabfb7","#fdf9c4","#ffda9e","#c5c6c8","#b2e2f2"];
 
 // const random = (max) => {
 //     return Math.floor(Math.random() * (max));
